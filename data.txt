@@ -1,0 +1,3 @@
+Name: Mira
+Age: 40
+Favorite Color: Green
