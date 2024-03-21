@@ -1,3 +1,4 @@
-Name: Mira
+Name: Miranda
 Age: 40
 Favorite Color: Green
+Extra element: random
